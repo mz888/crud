@@ -1,6 +1,6 @@
 # crud
 
-Some description or other info about what the app does.
+This app can be used to view, create, update, or destroy records from a csv file
 
 ## Installation
 
